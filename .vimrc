@@ -24,6 +24,9 @@ Plugin 'rizzatti/dash.vim'
 " Plugin for Ack.vim for integration with silver_searcher
 Plugin 'mileszs/ack.vim'
 
+" Plugin for vim-airline
+Plugin 'vim-airline/vim-airline'
+
 " All of your Plugins must be added before the following line
 call vundle#end()            " required
 filetype plugin indent on    " required
